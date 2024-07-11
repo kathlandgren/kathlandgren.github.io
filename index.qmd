@@ -8,7 +8,7 @@ I'm Ekaterina (Kath),  and I am a Postdoctoral Visiting Fellow at the Cooperativ
 
 **I am on the job market in Fall 2024! Please reach out if you'd like to chat!**
 
-For more about me, see my [bio](/pages/about.qmd), [CV](/assets/docs/CV.pdf), or list of [publications](/pages/publications.qmd). 
+For more about me, see my [CV](/assets/docs/CV.pdf), or list of [publications](/pages/publications.qmd). 
 
 ::: {.column-page-inset .text-center}
 ```{=html}

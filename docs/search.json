@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Ekaterina (Kath) Landgren",
     "section": "",
-    "text": "I’m Ekaterina (Kath), and I am a Postdoctoral Visiting Fellow at the Cooperative Institute for Research in Environmental Science at University of Colorado Boulder. I work with Matt Burgess. Prior to joining CIRES, I received a Ph.D. in Applied Mathematics from Cornell University. I’ve used dynamical systems models to study a wide range of phenomena – from voter turnout to planets beyond our solar system. Currently I am bringing these interests together by investigating social aspects of climate change. This work combines two fundamental questions in my research: How do we move society toward large-scale solutions to the climate crisis? How does one’s position within a system influence their view of it? I am passionate about complex systems, open science, and interdisciplinary research.\nI am on the job market in Fall 2024! Please reach out if you’d like to chat!\nFor more about me, see my bio, CV, or list of publications."
+    "text": "I’m Ekaterina (Kath), and I am a Postdoctoral Visiting Fellow at the Cooperative Institute for Research in Environmental Science at University of Colorado Boulder. I work with Matt Burgess. Prior to joining CIRES, I received a Ph.D. in Applied Mathematics from Cornell University. I’ve used dynamical systems models to study a wide range of phenomena – from voter turnout to planets beyond our solar system. Currently I am bringing these interests together by investigating social aspects of climate change. This work combines two fundamental questions in my research: How do we move society toward large-scale solutions to the climate crisis? How does one’s position within a system influence their view of it? I am passionate about complex systems, open science, and interdisciplinary research.\nI am on the job market in Fall 2024! Please reach out if you’d like to chat!\nFor more about me, see my CV, or list of publications."
   },
   {
     "objectID": "index.html#research-interests",
@@ -53,6 +53,6 @@
     "href": "pages/software.html",
     "title": "Software",
     "section": "",
-    "text": "SWAMPE\nSWAMPE is a 2D shallow-water general circulation model designed for simulating exoplanet atmospheres.\nSWAMPE is a fully in Python implementation of a spectral algorithm previously available only in Fortran.\nSWAMPE is tuned for synchronously rotating hot Jupiters and sub-Neptunes, and can be easily adapted to model a variety of substellar objects.\n(Founder and lead developer)\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package"
+    "text": "SWAMPE: a Shallow-Water Atmospheric Model in Python for Exoplanets\nSWAMPE is a 2D shallow-water general circulation model designed for simulating exoplanet atmospheres.\nSWAMPE is a fully in Python implementation of a spectral algorithm previously available only in Fortran.\nSWAMPE is tuned for synchronously rotating hot Jupiters and sub-Neptunes, and can be easily adapted to model a variety of substellar objects.\n(Founder and lead developer)\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package"
   }
 ]

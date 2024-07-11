@@ -1,5 +1,5 @@
 swampe:
-  title: "SWAMPE"
+  title: "SWAMPE: a Shallow-Water Atmospheric Model in Python for Exoplanets"
   description: |
     SWAMPE is a 2D shallow-water general circulation model designed for simulating exoplanet atmospheres. 
     
