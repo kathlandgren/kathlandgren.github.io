@@ -41,6 +41,8 @@ website:
 
 format:
   html:
+    css:
+      - https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/spacelab/bootstrap.min.css
     theme: spacelab
     toc: true
     smooth-scroll: true
