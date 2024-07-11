@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "pages/teaching.html",
+    "href": "pages/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Cornell University\n\nTA, MATH 4210: Nonlinear Dynamics and Chaos, Spring 2020.\nTA, MATH 2930: Differential Equations for Engineers, Spring 2019.\nTA, MATH 3610: Mathematical Modeling, Fall 2019.\n\nBrown University\n\nTA, APMA 1650: Statistical Inference I, Spring 2017\nTA, APMA 1650: Statistical Inference I, Fall 2015\n\nMIT HSSP\n\nInstructor, M14095: Mathematical Models and How to Build One, Summer 2020\n\nDesigned and taught a six-session online class in mathematical modeling for high school students. Topics included: the basics of modeling, population dynamics (predator-prey and language competition), stochastic modeling, evolutionary dynamics and game theory. The material was taught using Jupyter notebooks. Students completed a group capstone project. Contact me for any materials.\n\n\n\n​"
+  },
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My list of publications is also on Google Scholar.\n\nEkaterina Landgren, Alice Nadeau, Nikole Lewis, Tiffany Kataria, and Peter Hitchcock, \"A Shallow-water Model Exploration of Atmospheric Circulation on Sub-Neptunes: Effects of Radiative Forcing and Rotation Period\", Planetary Science Journal (2023).\n        \n        Published\n    \nEkaterina Landgren and Alice Nadeau, \"SWAMPE: A Shallow-Water Atmospheric Model in Python for Exoplanets\", Journal of Open Source Software (2022).\n        \n        Code\n     \n        \n        Published\n    \nEkaterina Landgren and Alice Nadeau, \"Comparison of Two Analytic Energy Balance Models Shows Stable Partial Ice Cover Possible for Any Obliquity\", Planetary Science Journal (2022).\n        \n        Published\n    \nMichael DeBellevue and Ekaterina Kryuchkova (Landgren), \"Fractal Behavior of the Fibonomial Triangle Modulo Prime p, Where the Rank of Apparition of p is p + 1\", Fibonacci Quarterly (2018).\n        \n        Published"
+  },
+  {
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Ekaterina (I go by Kath), and I am a Postdoctoral Visiting Fellow at the Cooperative Institute for Research in Environmental Science at University of Colorado Boulder. Prior to joining CIRES, I received a Ph.D. in Applied Mathematics from Cornell University. I’ve used dynamical systems models to study a wide range of phenomena – from voter turnout to planets beyond our solar system. I am bringing these interests together by building a model of how public support for climate policy can be influenced by migration and strategic investment in clean energy. I am interested in investigating strategies to overcome political polarization in the U.S. I am passionate about complex systems, open science, and interdisciplinary research.\nI live in Boulder, CO, and in my free time, I enjoy weightlifting, hiking, skiing, and playing guitar (not well)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ekaterina (Kath) Landgren",
+    "section": "",
+    "text": "I’m Ekaterina (Kath), and I am a Postdoctoral Visiting Fellow at the Cooperative Institute for Research in Environmental Science at University of Colorado Boulder. I work with Matt Burgess. Prior to joining CIRES, I received a Ph.D. in Applied Mathematics from Cornell University. I’ve used dynamical systems models to study a wide range of phenomena – from voter turnout to planets beyond our solar system. Currently I am bringing these interests together by investigating social aspects of climate change. This work combines two fundamental questions in my research: How do we move society toward large-scale solutions to the climate crisis? How does one’s position within a system influence their view of it? I am passionate about complex systems, open science, and interdisciplinary research.\nI am on the job market in Fall 2024! Please reach out if you’d like to chat!\nFor more about me, see my CV, or list of publications."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Ekaterina (Kath) Landgren",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nComplex social systems\n\nopinion dynamics\nsocio-environmental systems\npolarization\n\nMathematics of climate\n\nconceptual climate models\nexoplanetary atmosphere dynamics\n\nOpen science and open software"
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Ekaterina (Kath) Landgren",
+    "section": "Recent News",
+    "text": "Recent News\n\nJuly 2024 I am headed to IC2S2 in Philadelphia to present my work on modeling misperception of public support for climate policy.\nJune 2024 I presented my work on misperception of public support of climate policy at NetSci in Quebec City. I was awarded Honorable Mention for Best Oral Presentation by an Early-Career Researcher. I presented my work at the SIAM Conference on Mathematics of Planet Earth MPE24 in Portland.\nMay 2024 I spent a week at Collaborate @ ICERM working on a project titled Modeling and Analysis of Candidate Momentum in U.S. Primary Elections Using Campaign Contributions with Izabel Aguiar, Samantha Linn, Alexandria Volkening, and Sam Zhang.\nMarch 2024 I was awarded the SIAM Science Policy Fellowship\n\n​"
+  },
+  {
+    "objectID": "pages/miscellaneous.html",
+    "href": "pages/miscellaneous.html",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "My essay “Entering America” was chosen for Global Cornell’s collection of visual art, poetry, and prose on Race and Racism Across Borders.​"
+  },
+  {
+    "objectID": "pages/software.html",
+    "href": "pages/software.html",
+    "title": "Software",
+    "section": "",
+    "text": "SWAMPE: a Shallow-Water Atmospheric Model in Python for Exoplanets\nSWAMPE is a 2D shallow-water general circulation model designed for simulating exoplanet atmospheres.\nSWAMPE is a fully in Python implementation of a spectral algorithm previously available only in Fortran.\nSWAMPE is tuned for synchronously rotating hot Jupiters and sub-Neptunes, and can be easily adapted to model a variety of substellar objects.\n(Founder and lead developer)\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package"
+  }
+]
