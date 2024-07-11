@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+
+
+
+I'm Ekaterina (I go by Kath),  and I am a Postdoctoral Visiting Fellow at the Cooperative Institute for Research in Environmental Science at University of Colorado Boulder. Prior to joining CIRES, I received a Ph.D. in Applied Mathematics from Cornell University. I've used dynamical systems models to study a wide range of phenomena -- from voter turnout to planets beyond our solar system. I am bringing these interests together by building a model of how public support for climate policy can be influenced by migration and strategic investment in clean energy. I am interested in investigating strategies to overcome political polarization in the U.S. I am passionate about complex systems, open science, and interdisciplinary research.
+
+I live in Boulder, CO, and in my free time, I love weightlifting, hiking, skiing, and playing guitar (not well).

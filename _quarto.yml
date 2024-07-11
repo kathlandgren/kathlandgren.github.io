@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  resources:
+    - CNAME
+  
+
+website:
+  open-graph: true
+  title: "Kath Landgren"
+  site-url: https://kathlandgren.github.io
+  repo-url: https://github.com/kathlandgren/kathlandgren.github.io
+  favicon: assets/images/initial_icon.ico
+  twitter-card: 
+    creator: "@appliedkath"
+    site: "@appliedkath"
+    card-style: "summary_large_image"
+
+  navbar:
+    style: "floating"
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: assets/docs/CV.pdf
+        text: CV
+      - href: pages/publications.qmd
+        text: Publications
+      - href: pages/software.qmd
+        text: Software
+      - href: pages/teaching.qmd
+        text: Teaching
+    search: true
+    pinned: true
+
+format:
+  html:
+    theme: spacelab
+    toc: true
+    smooth-scroll: true
+    html-math-method: katex
+    include-in-header:
+      - includes.html
+    footnotes-hover: false
+    code-fold: true

@@ -1,0 +1,62 @@
+
+sub_neptunes_2023:
+  title: "A Shallow-water Model Exploration of Atmospheric Circulation on Sub-Neptunes: Effects of
+Radiative Forcing and Rotation Period"
+  authors:
+  - me
+  - Alice Nadeau
+  - Nikole Lewis
+  - Tiffany Kataria
+  - Peter Hitchcock
+  year: 2023
+  published_url: https://iopscience.iop.org/article/10.3847/PSJ/acd551
+  venue: Planetary Science Journal
+
+
+swampe_2022:
+  title: "SWAMPE: A Shallow-Water Atmospheric Model in Python for Exoplanets"
+  authors:
+    - me
+    - Alice Nadeau
+  year: 2022
+  code: https://github.com/kathlandgren/SWAMPE
+  published_url: https://joss.theoj.org/papers/10.21105/joss.04872
+  venue: Journal of Open Source Software
+
+
+energy_balance_2022:
+  title: "Comparison of Two Analytic Energy Balance Models Shows Stable Partial Ice Cover Possible for Any Obliquity"
+  authors:
+    - me
+    - Alice Nadeau
+  year: 2022
+  published_url: https://iopscience.iop.org/article/10.3847/PSJ/ac603d
+  venue: Planetary Science Journal
+
+voter_model_2021:
+  title: "Unrepresentative outcomes in a simple model of voter turnout"
+  authors:
+    - me
+    - Jonas L. Juul
+    - Steven H. Strogatz
+  year: 2021
+  published_url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054307
+  venue: Physical Review E
+
+  voter_model_2021:
+  title: "Fractal Behavior of the Fibonomial Triangle Modulo Prime p, Where the Rank of Apparition of p 
+is p + 1"
+  authors:
+    - Michael DeBellevue
+    - Ekaterina Kryuchkova (Landgren)
+  year: 2018
+  venue: Fibonacci Quarterly
+
+landry_contagion_2022:
+  title: "Models of Varying Complexity: from Voter Networks to Extrasolar Planets"
+  thesis: PhD
+  authors:
+    - me
+  year: 2022
+  published_url: https://doi.org/10.7298/kqzf-8b84
+  venue: Cornell University

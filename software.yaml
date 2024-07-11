@@ -1,0 +1,13 @@
+swampe:
+  title: "SWAMPE"
+  description: |
+    SWAMPE is a 2D shallow-water general circulation model designed for simulating exoplanet atmospheres. 
+    
+    SWAMPE is a fully in Python implementation of a spectral algorithm previously available only in Fortran.
+    
+    SWAMPE is tuned for synchronously rotating hot Jupiters and sub-Neptunes, and can be easily adapted to model a variety of substellar objects.
+
+  role: Founder and lead developer
+  github: https://github.com/kathlandgren/SWAMPE
+  package: https://pypi.org/project/swampe/
+  website: https://swampe.readthedocs.io
