@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
   render:
     - "*.qmd"
   resources:
@@ -27,12 +27,15 @@ website:
         text: Home
       - href: assets/docs/CV.pdf
         text: CV
+        target: _blank
       - href: pages/publications.qmd
         text: Publications
       - href: pages/software.qmd
         text: Software
       - href: pages/teaching.qmd
         text: Teaching
+      - href: pages/miscellaneous.qmd
+        text: Misc.
     search: true
     pinned: true
 

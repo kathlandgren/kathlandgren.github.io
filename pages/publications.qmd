@@ -13,7 +13,6 @@ pub_strs = load_publication_data("../publications.yaml")
 
 *My list of publications is also on [Google Scholar](https://scholar.google.com/citations?user=pu9BpO0AAAAJ&hl).*
 
-## Published
 
 ```{python}
 #| label: "published"
@@ -22,17 +21,5 @@ pub_strs = load_publication_data("../publications.yaml")
 for year in sorted(pub_strs["pubs"], reverse=True):
     display(HTML(
         "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) + "</ul>"
-    ))
-```
-
-## Theses
-
-```{python}
-#| label: "theses"
-#| id: "theses"
-#| output: asis
-for year in sorted(pub_strs["theses"], reverse=True):
-    display(HTML(
-        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["theses"][year]) + "</ul>"
     ))
 ```
