@@ -7,6 +7,7 @@ project:
     - CNAME
   
 
+
 website:
   open-graph: true
   title: "Kath Landgren"
@@ -49,3 +50,6 @@ format:
       - includes.html
     footnotes-hover: false
     code-fold: true
+
+execute:
+  freeze: auto
