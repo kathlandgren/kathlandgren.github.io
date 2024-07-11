@@ -3,7 +3,7 @@ title: "Ekaterina (Kath) Landgren"
 toc: false
 ---
 
-<img src="/assets/images/headshot.jpg" width="30%" hspace="20" align="right">
+<img src="/assets/images/headshot.png" width="30%" hspace="20" align="right">
 I'm Ekaterina (Kath),  and I am a Postdoctoral Visiting Fellow at the Cooperative Institute for Research in Environmental Science at University of Colorado Boulder. I work with [Matt Burgess](https://www.mattgburgess.ca). Prior to joining CIRES, I received a Ph.D. in Applied Mathematics from Cornell University. I've used dynamical systems models to study a wide range of phenomena -- from voter turnout to planets beyond our solar system.  Currently I am bringing these interests together by investigating social aspects of climate change. This work combines two fundamental questions in my research: How do we move society toward large-scale solutions to the climate crisis? How does one’s position within a system influence their view of it? I am passionate about complex systems, open science, and interdisciplinary research.
 
 **I am on the job market in Fall 2024! Please reach out if you'd like to chat!**
@@ -12,7 +12,7 @@ For more about me, see my [bio](/pages/about.qmd), [CV](/assets/docs/CV.pdf), or
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="mailto:nicholas.landry@virginia.edu" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:ekaterina.landgren@colorado.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
 <a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=pu9BpO0AAAAJ&hl" target="_blank" rel="noopener noreferrer">
@@ -26,7 +26,7 @@ For more about me, see my [bio](/pages/about.qmd), [CV](/assets/docs/CV.pdf), or
 </a>
 <a class="btn btn-outline-dark", href="https://orcid.org/0000-0001-6029-5216" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-orcid" role='img' aria-label='ORCID'></i> ORCID
-
+</a>
 <br>
 <br>
 ```

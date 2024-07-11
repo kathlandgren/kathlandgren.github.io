@@ -3,7 +3,7 @@ sub_neptunes_2023:
   title: "A Shallow-water Model Exploration of Atmospheric Circulation on Sub-Neptunes: Effects of
 Radiative Forcing and Rotation Period"
   authors:
-  - me
+  - Ekaterina Landgren
   - Alice Nadeau
   - Nikole Lewis
   - Tiffany Kataria
@@ -16,7 +16,7 @@ Radiative Forcing and Rotation Period"
 swampe_2022:
   title: "SWAMPE: A Shallow-Water Atmospheric Model in Python for Exoplanets"
   authors:
-    - me
+    - Ekaterina Landgren
     - Alice Nadeau
   year: 2022
   code: https://github.com/kathlandgren/SWAMPE
@@ -27,7 +27,7 @@ swampe_2022:
 energy_balance_2022:
   title: "Comparison of Two Analytic Energy Balance Models Shows Stable Partial Ice Cover Possible for Any Obliquity"
   authors:
-    - me
+    - Ekaterina Landgren
     - Alice Nadeau
   year: 2022
   published_url: https://iopscience.iop.org/article/10.3847/PSJ/ac603d
@@ -36,7 +36,7 @@ energy_balance_2022:
 voter_model_2021:
   title: "Unrepresentative outcomes in a simple model of voter turnout"
   authors:
-    - me
+    - Ekaterina Landgren
     - Jonas L. Juul
     - Steven H. Strogatz
   year: 2021
@@ -56,7 +56,7 @@ landry_contagion_2022:
   title: "Models of Varying Complexity: from Voter Networks to Extrasolar Planets"
   thesis: PhD
   authors:
-    - me
+    - Ekaterina Landgren
   year: 2022
   published_url: https://doi.org/10.7298/kqzf-8b84
   venue: Cornell University
