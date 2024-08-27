@@ -47,7 +47,7 @@ For more about me, see my [CV](/assets/docs/CV.pdf), or list of [publications](/
 ## Recent News
 
 * **July 2024** 
-I am headed to [IC2S2](https://ic2s2-2024.org/topics) in Philadelphia to present my work on modeling misperception of public support for climate policy.
+At [IC2S2](https://ic2s2-2024.org/topics) in Philadelphia I presented my work on modeling misperception of public support for climate policy.
 
 * **June 2024**
 I presented my work on misperception of public support of climate policy at [NetSci](https://netsci2024.com) in Quebec City. I was awarded Honorable Mention for Best Oral Presentation by an Early-Career Researcher. 
