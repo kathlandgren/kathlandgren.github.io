@@ -1,9 +1,10 @@
 ---
 title: "About Me"
 ---
+<img src="/assets/images/upstate.jpg" width="25%" hspace="20" align="right">
 
+I am originally from Moscow, Russia. As of 2024, I spent more half of my life in the United States. For more than a decade, I was an international student on an F-1 visa. Its description of me as a "visitor" and the associated sense of precarity has shaped my perspective on the world around me, as well as my complicated sense of home and belonging.  
 
+I live in Boulder, CO: a place where I got to fulfill my two longstanding dreams of having a cat and a fireplace. 
 
-I'm Ekaterina (I go by Kath),  and I am a Postdoctoral Visiting Fellow at the Cooperative Institute for Research in Environmental Science at University of Colorado Boulder. Prior to joining CIRES, I received a Ph.D. in Applied Mathematics from Cornell University. I've used dynamical systems models to study a wide range of phenomena -- from voter turnout to planets beyond our solar system. I am bringing these interests together by building a model of how public support for climate policy can be influenced by migration and strategic investment in clean energy. I am interested in investigating strategies to overcome political polarization in the U.S. I am passionate about complex systems, open science, and interdisciplinary research.
-
-I live in Boulder, CO, and in my free time, I enjoy weightlifting, hiking, skiing, and playing guitar (though not well).
+I am a strong believer in what Kieran Setiya calls "atelic activities", meaning that their meaning isn't derived from the ultimate aim. I love the following activities, and I resist the occasional urges to optimize (or, god forbid, monetize) them: calligraphy, journaling, sketching, weightlifting, baking, playing guitar, reading making linocut prints, learning languages. Colorado has turned me into a hiker and a skier. The following things bring me inordinate amounts joy but don't feel like they fit in the category of hobbies: tea, making lists, going to concerts.
