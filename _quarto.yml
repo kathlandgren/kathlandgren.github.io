@@ -35,7 +35,7 @@ website:
         text: Software
       - href: pages/teaching.qmd
         text: Teaching
-      - href: pages/about.md
+      - href: pages/about.qmd
         text: About
       - href: pages/miscellaneous.qmd
         text: Misc.
