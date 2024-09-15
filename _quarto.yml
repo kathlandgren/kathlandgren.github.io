@@ -29,6 +29,8 @@ website:
       - href: assets/docs/CV.pdf
         text: CV
         target: _blank
+      - href: pages/research.qmd
+        text: Research
       - href: pages/publications.qmd
         text: Publications
       - href: pages/software.qmd

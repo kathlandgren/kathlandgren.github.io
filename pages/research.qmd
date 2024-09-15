@@ -1,0 +1,39 @@
+---
+title: "Ongoing Research"
+---
+
+###  Misperception of Public Support of Climate Policy
+
+Climate change policies are popular, but their popularity is chronically underestimated, creating a barrier to building coalitions to implement such policies. Previous research has suggested possible mechanisms to explain this mismatch, including media biases and self-censorship within politically conservative communities, but these have not been explicitly tested. I am testing for these mechanisms using a combination of modeling and data analyses, including the development of a human-annotated dataset on climate coverage in news media.
+
+
+Our key takeaways are that:
+
+* homophily or echo chamber effects alone are not sufficient to explain widespread misperception,
+* in TV news, opposition to climate policy is more frequent than opposition to climate concern, and
+* surprisingly, we do not find evidence supporting media bias as an explanation for misperception of climate policy support: the ratio of expressed support to opposition aligns with the views of the American public.
+
+<img src="/assets/images/homophily_plot.png" width="100%" hspace="20" align="center">
+
+To find out more, check out the [slides](https://docs.google.com/presentation/d/10WRc720whFufLcYcPip5iu1WSHjINMA90uXy6mUHAGI/edit?usp=sharing) from my talk at NetSci2024.
+
+
+### ​Optimal Ambition in Politics, Business, and Life
+
+How ambitious should one be? When should we besatisfied and when should we look for greener pastures? When is the perfect the enemy of the
+good? This type of question arises in many different contexts, including business, politics, and many aspects of our personal lives. We construct a simple model where agents draw random rewards from an underlying distribution. Each agent has a satisfaction threshold and finite search time. We investigate how the optimal satisfaction threshold (i.e. the one that maximizes cumulative reward) depends on the properties of the reward landscape and on what information the agents receive about available rewards. 
+
+Our key insights are that:
+
+* compared to the optimal threshold, being too ambitious has a higher expected cost than being too cautious, and
+* comparing one’s performance to those who are doing better can actually hurt one’s expected reward in the long run. 
+
+We apply these insights by mapping the reward landscapes of political polling and the stock market.
+
+
+### Ongoing collaborations
+Beyond the above, I am involved in several ongoing collaborations. Please reach out if you would like to chat about these projects.
+
+* modeling social (i.e. beyond economic) aspects of gentrification processes,
+* describing the publication preferences of academics,
+* analyzing climate change polarization on Reddit.
