@@ -38,7 +38,7 @@ website:
       - href: pages/about.qmd
         text: About
       - href: pages/miscellaneous.qmd
-        text: Misc.
+        text: Other writing
     search: true
     pinned: true
 
