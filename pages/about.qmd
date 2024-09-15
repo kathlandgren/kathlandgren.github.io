@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 ---
-<img src="/assets/images/upstate.jpg" width="25%" hspace="20" align="right">
+<img src="/assets/images/upstate.jpg" width="40%" hspace="20" align="right">
 
 I am originally from Moscow, Russia. As of 2024, I spent more half of my life in the United States. For more than a decade, I was an international student on an F-1 visa. Its description of me as a "visitor" and the associated sense of precarity has shaped my perspective on the world around me, as well as my complicated sense of home and belonging.  
 
