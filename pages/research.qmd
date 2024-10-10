@@ -15,12 +15,12 @@ Our key takeaways are that:
 
 <img src="/assets/images/homophily_plot.png" width="100%" hspace="20" align="center">
 
-To find out more, check out the [slides](https://docs.google.com/presentation/d/10WRc720whFufLcYcPip5iu1WSHjINMA90uXy6mUHAGI/edit?usp=sharing) from my talk at NetSci2024.
+To find out more, check out the [slides](https://docs.google.com/presentation/d/10WRc720whFufLcYcPip5iu1WSHjINMA90uXy6mUHAGI/edit?usp=sharing) from my talk at NetSci2024 or the [recording](https://www.youtube.com/watch?v=mGz01OVdQ74) from the seminar I gave at the National Ecological Observatory Network (NEON).
 
 
 ### ​Optimal Ambition in Politics, Business, and Life
 
-How ambitious should one be? When should we besatisfied and when should we look for greener pastures? When is the perfect the enemy of the
+How ambitious should one be? When should we be satisfied and when should we look for greener pastures? When is the perfect the enemy of the
 good? This type of question arises in many different contexts, including business, politics, and many aspects of our personal lives. We construct a simple model where agents draw random rewards from an underlying distribution. Each agent has a satisfaction threshold and finite search time. We investigate how the optimal satisfaction threshold (i.e. the one that maximizes cumulative reward) depends on the properties of the reward landscape and on what information the agents receive about available rewards. 
 
 Our key insights are that:
