@@ -16,6 +16,7 @@ Our key takeaways are that:
 <img src="/assets/images/homophily_plot.png" width="100%" hspace="20" align="center">
 
 To find out more, check out the [slides](https://docs.google.com/presentation/d/10WRc720whFufLcYcPip5iu1WSHjINMA90uXy6mUHAGI/edit?usp=sharing) from my talk at NetSci2024 or the [recording](https://www.youtube.com/watch?v=mGz01OVdQ74) from the seminar I gave at the National Ecological Observatory Network (NEON).
+Draft available upon request.
 
 
 ### ​Optimal Ambition in Politics, Business, and Life
@@ -29,6 +30,7 @@ Our key insights are that:
 * comparing one’s performance to those who are doing better can actually hurt one’s expected reward in the long run. 
 
 We apply these insights by mapping the reward landscapes of political polling and the stock market.
+Draft available upon request.
 
 
 ### Ongoing collaborations
