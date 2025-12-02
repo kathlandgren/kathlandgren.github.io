@@ -4,9 +4,7 @@ toc: false
 ---
 
 <img src="/assets/images/headshot.png" width="30%" hspace="20" align="right">
-I'm Ekaterina (Kath),  and I am a Postdoctoral Visiting Fellow at the Cooperative Institute for Research in Environmental Science at University of Colorado Boulder. I work with [Matt Burgess](https://www.mattgburgess.ca). Prior to joining CIRES, I received a Ph.D. in Applied Mathematics from Cornell University. I've used dynamical systems models to study a wide range of phenomena -- from voter turnout to planets beyond our solar system.  Currently I am bringing these interests together by investigating social aspects of climate change. This work combines two fundamental questions in my research: How do we move society toward large-scale solutions to the climate crisis? How does one’s position within a system influence their view of it? I am passionate about complex systems, open science, and interdisciplinary research.
-
-**In Fall 2025, I will be joining the Stanford Doerr School of Sustainability as a Dean’s Postdoctoral Fellow. I will be working with [Sara Constantino](https://www.saraconstantino.org/) and [Madalina Vlasceanu](https://climatecognition.stanford.edu/). **
+I'm Ekaterina (Kath),  and I am a Dean's Postdoctoral Fellow at the Stanford Doerr School of Sustainability. I am working with [Sara Constantino](https://www.saraconstantino.org/) and [Madalina Vlasceanu](https://climatecognition.stanford.edu/). I was previously at Postdoctoral Visiting Fellow at the Cooperative Institute for Research in Environmental Science at University of Colorado Boulder, where I worked with [Matt Burgess](https://www.mattgburgess.ca). Prior to joining CIRES, I received a Ph.D. in Applied Mathematics from Cornell University. I've used dynamical systems models to study a wide range of phenomena -- from voter turnout to planets beyond our solar system.  Currently I am bringing these interests together by investigating social aspects of climate change. This work combines two fundamental questions in my research: How do we move society toward large-scale solutions to the climate crisis? How does one’s position within a system influence their view of it? I am passionate about complex systems, open science, and interdisciplinary research.
 
 For more about me, see my [CV](/assets/docs/CV.pdf), or list of [publications](/pages/publications.qmd). 
 
@@ -48,6 +46,12 @@ For more about me, see my [CV](/assets/docs/CV.pdf), or list of [publications](/
 I will be at the [SIAM Dynamical Systems Conference](https://www.siam.org/conferences-events/siam-conferences/ds25/) in Denver in May 2025, and at the [Collective Social Phenomena: Dynamics and Data](https://www.birs.ca/events/2025/5-day-workshops/25w5326) workshop in The Casa Matemática Oaxaca (CMO) in June 2025. 
 
 ## Recent News
+
+* **October 2025** 
+I attended the Fall meeting of the SIAM Committee on Science Policy and visited YY Ahn's lab at the University of Virginia.
+
+* **September 2025** 
+I moved to the Bay Area and started a postoctoral appointment at the Stanford Doerr School of Sustainability!
 
 * **April 2025** 
 I attended the  [Rising Stars in Computational and Data Sciences](https://risingstars.oden.utexas.edu/) workshop at the Oden Institute in UT Austin.
