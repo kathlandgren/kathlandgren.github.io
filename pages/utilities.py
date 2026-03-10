@@ -16,7 +16,6 @@ def button(url, str, icon):
         {str}
     </a>"""
 
-
 def load_publication_data(path):
     yaml_data = yaml.safe_load(open(path))
     pub_strs = {"pubs": {}, "wps": {}, "theses": {}}
@@ -45,18 +44,29 @@ def load_publication_data(path):
         pub_url = data.get("published_url")
         venue = data.get("venue")
         thesis_type = data.get("thesis")
+        
+        # Check if this is a preprint (has preprint URL but no published_url)
+        is_preprint = preprint is not None and pub_url is None
 
         pub_str = f'{author_str}, "{title_str}",'
 
         if venue is not None:
             pub_str += f" <em>{venue}</em>"
+        elif is_preprint:
+            # Add "arXiv preprint" if no venue is specified for a preprint
+            pub_str += f" <em>arXiv preprint</em>"
 
         if thesis_type is not None:
             pub_str += f", <em>{thesis_type} Thesis</em>"
 
         pub_str += f" ({year_str})."
+        
+        # # Add preprint badge
+        # if is_preprint:
+        #     pub_str += ' <span class="badge bg-info text-dark">Preprint</span>'
 
-        if pub_url is None:
+        if pub_url is None and preprint is None:
+            # Working paper (no published URL and no preprint URL)
             if year_str not in pub_strs["wps"]:
                 pub_strs["wps"][year_str] = []
             pub_strs["wps"][year_str].append(
@@ -78,9 +88,11 @@ def load_publication_data(path):
                 + "</li>"
             )
         else:
+            # Published paper or preprint
             if year_str not in pub_strs["pubs"]:
                 pub_strs["pubs"][year_str] = []
-            buttons.append(button(pub_url, "Published", "ai-archive"))
+            if pub_url is not None:
+                buttons.append(button(pub_url, "Published", "ai-archive"))
             pub_strs["pubs"][year_str].append(
                 "<li class='list-group-item border-0'>"
                 + pub_str
@@ -89,7 +101,6 @@ def load_publication_data(path):
                 + "</li>"
             )
     return pub_strs
-
 
 def load_software_data(path):
     yaml_data = yaml.safe_load(open(path))

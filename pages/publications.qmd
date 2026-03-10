@@ -6,9 +6,28 @@ section-divs: false
 keep-md: true
 ---
 
+
 ```{python}
 from utilities import *
+
 pub_strs = load_publication_data("../publications.yaml")
+
+# Write debug info to a file
+with open("publications_debug.txt", "w") as f:
+    f.write("DEBUG INFO:\n\n")
+    f.write(f"Years found in pubs: {sorted(pub_strs['pubs'].keys(), reverse=True)}\n")
+    f.write(f"Years found in wps: {sorted(pub_strs['wps'].keys(), reverse=True)}\n\n")
+    
+    for year in [2026, 2025, 2023, 2022, 2021]:
+        if year in pub_strs["pubs"]:
+            f.write(f"Year {year}: {len(pub_strs['pubs'][year])} publication(s) in pubs\n")
+        elif year in pub_strs["wps"]:
+            f.write(f"Year {year}: {len(pub_strs['wps'][year])} publication(s) in wps\n")
+        else:
+            f.write(f"Year {year}: NOT FOUND\n")
+    
+    f.write("\n\nFull pub_strs structure:\n")
+    f.write(str(pub_strs))
 ```
 
 *My list of publications is also on [Google Scholar](https://scholar.google.com/citations?user=pu9BpO0AAAAJ&hl).*
@@ -23,3 +42,5 @@ for year in sorted(pub_strs["pubs"], reverse=True):
         "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) + "</ul>"
     ))
 ```
+
+

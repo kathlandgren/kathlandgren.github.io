@@ -1,17 +1,37 @@
+consensus_fragmentation_2026:
+  title: "Consensus and fragmentation in academic publication preferences"
+  authors:
+    - I. Van Buskirk
+    - M. Hohmann
+    - Ekaterina Landgren
+    - J. Ugander
+    - A. Clauset
+    - D. B. Larremore
+  year: 2026
+  code: https://github.com/LarremoreLab/academic-publication-preferences
+  preprint: https://arxiv.org/abs/2603.00807
+
+optimal_ambition_2025:
+  title: "Optimal ambition in business, politics and life"
+  authors:
+    - Ekaterina Landgren
+    - Ryan E. Langendorf
+    - Matthew G. Burgess
+  year: 2025
+  code: https://github.com/kathlandgren/ambition
+  preprint: https://arxiv.org/abs/2502.10500
 
 sub_neptunes_2023:
-  title: "A Shallow-water Model Exploration of Atmospheric Circulation on Sub-Neptunes: Effects of
-Radiative Forcing and Rotation Period"
+  title: "A Shallow-water Model Exploration of Atmospheric Circulation on Sub-Neptunes: Effects of Radiative Forcing and Rotation Period"
   authors:
-  - Ekaterina Landgren
-  - Alice Nadeau
-  - Nikole Lewis
-  - Tiffany Kataria
-  - Peter Hitchcock
+    - Ekaterina Landgren
+    - Alice Nadeau
+    - Nikole Lewis
+    - Tiffany Kataria
+    - Peter Hitchcock
   year: 2023
   published_url: https://iopscience.iop.org/article/10.3847/PSJ/acd551
   venue: Planetary Science Journal
-
 
 swampe_2022:
   title: "SWAMPE: A Shallow-Water Atmospheric Model in Python for Exoplanets"
@@ -22,7 +42,6 @@ swampe_2022:
   code: https://github.com/kathlandgren/SWAMPE
   published_url: https://joss.theoj.org/papers/10.21105/joss.04872
   venue: Journal of Open Source Software
-
 
 energy_balance_2022:
   title: "Comparison of Two Analytic Energy Balance Models Shows Stable Partial Ice Cover Possible for Any Obliquity"
