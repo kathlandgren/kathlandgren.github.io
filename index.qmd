@@ -53,7 +53,7 @@ I presented virtually at Lund University's COSHE seminar on "Perceived climate p
 
 New SIAM News article! [Modeling Social Systems: Transparency, Reproducibility, and Responsibility](https://www.siam.org/publications/siam-news/articles/modeling-social-systems-transparency-reproducibility-and-responsibility/) with Casa Matemática Oaxaca Workgroup on Collective Social Phenomena.
 
-* **December 2025** I attended the [Complex Networks Winter Workshop](https://cnww2025.com/) in Quebec City.
+* **December 2025** I attended the Complex Networks Winter Workshop in Quebec City.
 
 * **October 2025** 
 I attended the Fall meeting of the SIAM Committee on Science Policy and visited YY Ahn's lab at the University of Virginia.
