@@ -10,7 +10,7 @@ For more about me, see my [CV](/assets/docs/CV.pdf), or list of [publications](/
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="mailto:ekaterina.landgren@colorado.edu" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:kath.landgren@stanford.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
 <a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=pu9BpO0AAAAJ&hl" target="_blank" rel="noopener noreferrer">
