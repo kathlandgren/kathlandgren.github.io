@@ -47,7 +47,7 @@ I will be attending [NetSci2026](https://www.netsci2026.com/) in Boston, MA in J
 
 ## News
 
-* **April 2026** I presented at the Sustainability Data Science Conference at Stanford University on "Climate attribution in local news coverage of natural hazards" and was selected for the Best Postdoc Talk award!
+* **April 2026** I gave a talk at the Sustainability Data Science Conference at Stanford University on "Climate attribution in local news coverage of natural hazards" and was selected for the Best Postdoc Presentationaward!
 
 * **April 2026** I attended the Micro Working Group on Robust Institutional Design in Expert--Decision Maker Systems at the Santa Fe Institute with Emma Zajdela, Adam Wiechman, Abigail Crocker, Jake Nichol, and Konrad Posch.
 
