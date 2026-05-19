@@ -9,6 +9,7 @@ us_tv_news_2026:
   year: 2026
   code: https://github.com/kathlandgren/climate-policy
   published_url: https://iopscience.iop.org/article/10.1088/2515-7620/ae6b10
+  venue: Environmental Research Communications
 
 modeling_viz_2026:
   title: "Visualizing epidemiological models for policy: design principles for effective communication"
@@ -24,6 +25,7 @@ modeling_viz_2026:
     - Stephen Kissler
   year: 2026
   published_url: 10.3389/fpubh.2026.1798154
+  venue: Frontiers in Public Health
 
 consensus_fragmentation_2026:
   title: "Consensus and fragmentation in academic publication preferences"
