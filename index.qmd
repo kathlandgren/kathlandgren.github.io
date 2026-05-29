@@ -46,6 +46,7 @@ For more about me, see my [CV](/assets/docs/CV.pdf), or list of [publications](/
 I will be attending [NetSci2026](https://www.netsci2026.com/) in Boston, MA in June and [IC2S2 2026](https://ic2s2-2026.org/) in Burlington, VT in July.
 
 ## News
+* **May 2026** New paper! [Optimal ambition in business, politics and life](https://doi.org/10.1103/dfw8-vhjk) with Ryan E. Langendorf and Matthew G. Burgess. Out in Physical Review E. Read about it in [The Guardian](https://www.theguardian.com/science/2026/may/29/dont-shoot-for-the-moon-aiming-for-above-average-is-key-to-success-maths-suggests) and [New Scientist](https://www.newscientist.com/article/2528468-aim-high-but-dont-shoot-for-the-moon-mathematicians-advise/).
 
 * **May 2026** New paper! [U.S. television news coverage of climate change policy is aggregately balanced but polarized](https://iopscience.iop.org/article/10.1088/2515-7620/ae6b10) with Jeremiah Osborne-Gowey, Joshua Garland, Maxwell Boykoff, and Matthew G. Burgess. Out in Environmental Research Communications.
 

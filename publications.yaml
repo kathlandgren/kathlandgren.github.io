@@ -40,15 +40,17 @@ consensus_fragmentation_2026:
   code: https://github.com/LarremoreLab/academic-publication-preferences
   preprint: https://arxiv.org/abs/2603.00807
 
-optimal_ambition_2025:
+optimal_ambition_2026:
   title: "Optimal ambition in business, politics and life"
   authors:
     - Ekaterina Landgren
     - Ryan E. Langendorf
     - Matthew G. Burgess
-  year: 2025
+  year: 2026
   code: https://github.com/kathlandgren/ambition
   preprint: https://arxiv.org/abs/2502.10500
+  published_url: https://doi.org/10.1103/dfw8-vhjk
+  venue: Physical Review E
 
 sub_neptunes_2023:
   title: "A Shallow-water Model Exploration of Atmospheric Circulation on Sub-Neptunes: Effects of Radiative Forcing and Rotation Period"
