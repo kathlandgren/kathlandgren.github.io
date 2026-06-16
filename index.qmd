@@ -46,6 +46,9 @@ For more about me, see my [CV](/assets/docs/CV.pdf), or list of [publications](/
 I will be attending [IC2S2 2026](https://ic2s2-2026.org/) in Burlington, VT in July.
 
 ## News
+* **June 2026** New preprint! [Can homophily explain public underestimation of climate policy support?](https://arxiv.org/abs/2606.15106) with Shriya Nagpal, Joshua Garland, Yaw Acquah, and Matthew G. Burgess.
+
+
 * **June 2026** I presented a talk "Publication preferences reveal the structure of academic fields" at [NetSci2026](https://www.netsci2026.com/) in Boston, MA (read about the work in the[preprint](https://arxiv.org/abs/2603.00807)).
 
 * **May 2026** New paper! [Optimal ambition in business, politics and life](https://doi.org/10.1103/dfw8-vhjk) with Ryan E. Langendorf and Matthew G. Burgess. Out in Physical Review E. This paper has been selected to be an Editor's Suggestion. Read about it in [The Guardian](https://www.theguardian.com/science/2026/may/29/dont-shoot-for-the-moon-aiming-for-above-average-is-key-to-success-maths-suggests) and [New Scientist](https://www.newscientist.com/article/2528468-aim-high-but-dont-shoot-for-the-moon-mathematicians-advise/).
@@ -58,7 +61,7 @@ I will be attending [IC2S2 2026](https://ic2s2-2026.org/) in Burlington, VT in J
 
 * **April 2026** I attended the Micro Working Group on Robust Institutional Design in Expert--Decision Maker Systems at the Santa Fe Institute with Emma Zajdela, Adam Wiechman, Abigail Crocker, Jake Nichol, and Konrad Posch.
 
-* **March 2026** New preprint! [Consensus and fragmentation in academic publication preferences](https://arxiv.org/abs/2603.00807) with Ian Van Buskirk, Marilena Hohmann, Johan Ugander, Aaron Clauset, and Dan Larremore. 
+* **March 2026** New preprint! [Consensus and fragmentation in academic publication preferences](https://arxiv.org/abs/2603.00807) lead by Ian Van Buskirk, with Marilena Hohmann, Johan Ugander, Aaron Clauset, and Dan Larremore. 
 
 * **March 2026** I presented virtually at Lund University's COSHE seminar on "Perceived climate polarization from networks to newsrooms."
 

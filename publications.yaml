@@ -1,3 +1,15 @@
+homophily_model_2026:
+  title: "Can homophily explain public underestimation of climate policy support?"
+  authors:
+    - Ekaterina Landgren
+    - Shriya Nagpal
+    - Joshua Garland
+    - Yaw Acquah
+    - Matthew G. Burgess
+  year: 2026
+  code: https://github.com/kathlandgren/homophily-misperception
+  preprint: https://arxiv.org/abs/2606.15106
+
 us_tv_news_2026:
   title: "U.S. television news coverage of climate change policy is aggregately balanced but polarized"
   authors:
