@@ -2,6 +2,14 @@
 title: "News Archive"
 toc: false
 ---
+* **October 2025** 
+I attended the Fall meeting of the SIAM Committee on Science Policy and visited YY Ahn's lab at the University of Virginia.
+
+* **September 2025** 
+I moved to the Bay Area and started a postoctoral appointment at the Stanford Doerr School of Sustainability!
+
+* **June 2025** 
+I attended the [Collective Social Phenomena: Dynamics and Data](https://www.birs.ca/events/2025/5-day-workshops/25w5326) workshop at The Casa Matemática Oaxaca (CMO).
 
 * **May 2025**
 I presented my work at the [SIAM Dynamical Systems Conference](https://www.siam.org/conferences-events/siam-conferences/ds25/) in Denver.

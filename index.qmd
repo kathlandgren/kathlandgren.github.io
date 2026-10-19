@@ -43,9 +43,15 @@ For more about me, see my [CV](/assets/docs/CV.pdf), or list of [publications](/
 * Open science and open software
 
 ## Upcoming
-I will be attending [IC2S2 2026](https://ic2s2-2026.org/) in Burlington, VT in July.
+I will be attending [SIAM 2027](https://www.siam.org/conferences-events/siam-conferences/ds27/) in Atlanta, GA in May.
 
 ## News
+* **October 2026** I presented a talk "Modeling feedback between institutions and social norms" at [CCS 2026](https://ccs26.cssociety.org/) in Binghamton, NY.
+
+* **September 2026** I visited the [Collective Minds](https://csh.ac.at/research/research-topic/collective-minds/) group at [Complexity Science Hub](https://www.csh.ac.at/) in Vienna, Austria.
+
+* **July 2026** I presented a talk "Modeling feedback between institutions and social norms" at [IC2S2 2026](https://ic2s2-2026.org/) in Burlington, VT.
+
 * **June 2026** New preprint! [Can homophily explain public underestimation of climate policy support?](https://arxiv.org/abs/2606.15106) with Shriya Nagpal, Joshua Garland, Yaw Acquah, and Matthew G. Burgess.
 
 * **June 2026** I presented a talk "Publication preferences reveal the structure of academic fields" at [NetSci2026](https://www.netsci2026.com/) in Boston, MA (read about the work in the [preprint](https://arxiv.org/abs/2603.00807)).
@@ -68,14 +74,7 @@ I will be attending [IC2S2 2026](https://ic2s2-2026.org/) in Burlington, VT in J
 
 * **December 2025** I attended the Complex Networks Winter Workshop in Quebec City.
 
-* **October 2025** 
-I attended the Fall meeting of the SIAM Committee on Science Policy and visited YY Ahn's lab at the University of Virginia.
 
-* **September 2025** 
-I moved to the Bay Area and started a postoctoral appointment at the Stanford Doerr School of Sustainability!
-
-* **June 2025** 
-I attended the [Collective Social Phenomena: Dynamics and Data](https://www.birs.ca/events/2025/5-day-workshops/25w5326) workshop at The Casa Matemática Oaxaca (CMO).
 
 
 *For older news, see the [news archive](/pages/news_archive.qmd).*
